@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         网盘有效性检查【重构版】
 // @namespace    https://github.com/dudt/netdisk-checker-rebuild
-// @version      2026.10.27.3
+// @version      2026.10.27.4
 // @icon         https://pan.baidu.com/ppres/static/images/favicon.ico
 // @author       dudt (基于 Leon406 原版重构)
 // @license      AGPL-3.0-or-later
@@ -31,8 +31,8 @@
 // @connect      115.com
 // @exclude      *://baike.baidu.com/*
 // @exclude      *://github.com/marketplace/*
-// @require      https://cdnjs.loli.net/ajax/libs/jquery/3.7.1/jquery.min.js
-// @require      https://cdnjs.loli.net/ajax/libs/findAndReplaceDOMText/0.4.6/findAndReplaceDOMText.min.js
+// @require      https://cdn.jsdmirror.cn/ajax/libs/jquery/3.7.1/jquery.min.js
+// @require      https://cdn.jsdmirror.cn/ajax/libs/findAndReplaceDOMText/0.4.6/findAndReplaceDOMText.min.js
 // @run-at       document-start
 // @grant        GM_getValue
 // @grant        GM_setValue
